@@ -24,7 +24,7 @@
 
 I am a **production-minded AI and infrastructure engineer** with **8+ years of experience** across production support, cloud platforms, software delivery, application reliability, and operational troubleshooting.
 
-My work now sits at the intersection of **AI agents and infrastructure**: building systems that can reason and act while remaining observable, secure, recoverable, and controllable.
+My work sits at the intersection of **AI agents and infrastructure**: building systems that can reason and act while remaining observable, secure, recoverable, and controllable.
 
 > **Systems > Demos** — the real engineering begins when retries, timeouts, stale state, authorization, partial success, cost limits, and rollback paths enter the design.
 
@@ -186,8 +186,12 @@ Practical automation for discovering and organizing AI-focused job opportunities
 
 ## 📊 GitHub Activity
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ashutosh270497&show_icons=true&theme=github_dark&hide_border=true&bg_color=020617&title_color=38bdf8&icon_color=22d3ee&text_color=cbd5e1" alt="Ashutosh's GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashutosh270497&layout=compact&theme=github_dark&hide_border=true&bg_color=020617&title_color=38bdf8&text_color=cbd5e1" alt="Ashutosh's most used languages" />
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ashutosh270497&theme=github_dark" alt="Ashutosh's GitHub statistics" />
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ashutosh270497&theme=github_dark" alt="Ashutosh's repositories by language" />
+
+<br/>
+
+<img width="96%" src="https://github-profile-summary-cards.vercel.app/api/profile-details?username=Ashutosh270497&theme=github_dark" alt="Ashutosh's GitHub contribution details" />
 
 <br/>
 
