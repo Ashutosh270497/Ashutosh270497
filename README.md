@@ -24,7 +24,7 @@
 
 I am a **production-minded AI and infrastructure engineer** with **8+ years of experience** across production support, cloud platforms, software delivery, application reliability, and operational troubleshooting.
 
-My work sits at the intersection of **AI agents and infrastructure**: building systems that can reason and act while remaining observable, secure, recoverable, and controllable.
+My work now sits at the intersection of **AI agents and infrastructure**: building systems that can reason and act while remaining observable, secure, recoverable, and controllable.
 
 > **Systems > Demos** — the real engineering begins when retries, timeouts, stale state, authorization, partial success, cost limits, and rollback paths enter the design.
 
@@ -186,15 +186,6 @@ Practical automation for discovering and organizing AI-focused job opportunities
 
 ## 📊 GitHub Activity
 
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ashutosh270497&theme=github_dark" alt="Ashutosh's GitHub statistics" />
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ashutosh270497&theme=github_dark" alt="Ashutosh's repositories by language" />
-
-<br/>
-
-<img width="96%" src="https://github-profile-summary-cards.vercel.app/api/profile-details?username=Ashutosh270497&theme=github_dark" alt="Ashutosh's GitHub contribution details" />
-
-<br/>
-
 <img src="https://streak-stats.demolab.com?user=Ashutosh270497&theme=dark&hide_border=true&background=020617&ring=38BDF8&fire=22D3EE&currStreakLabel=BAE6FD&sideLabels=CBD5E1&dates=64748B" alt="Ashutosh's GitHub streak" />
 
 </div>
@@ -216,9 +207,9 @@ Practical automation for discovering and organizing AI-focused job opportunities
 ## 🐍 Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ashutosh270497/Ashutosh270497/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ashutosh270497/Ashutosh270497/output/github-snake.svg" />
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Ashutosh270497/Ashutosh270497/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ashutosh270497/Ashutosh270497/output/github-snake-dark.svg?v=20260802-2" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ashutosh270497/Ashutosh270497/output/github-snake.svg?v=20260802-2" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Ashutosh270497/Ashutosh270497/output/github-snake-dark.svg?v=20260802-2" />
 </picture>
 
 </div>
